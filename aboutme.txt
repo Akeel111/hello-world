@@ -3,3 +3,5 @@ i am studying devops engineering
 
 username = input("enter user name: ")
 password = int(input("enter password"))
+
+print(username)
